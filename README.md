@@ -15,3 +15,23 @@ Phân tích dữ liệu bán điện thoại của trang thương mai điện t�
   <img src="Demo/Báo cáo cuối khóa DA.pptx (2).png"><br/>
   <i>An example of app demo for my model's output for Dbpedia dataset.</i>
 </p>
+
+<p align="center">
+  <img src="Demo/Báo cáo cuối khóa DA.pptx (3).png"><br/>
+  <i>An example of app demo for my model's output for Dbpedia dataset.</i>
+</p>
+
+<p align="center">
+  <img src="Demo/Báo cáo cuối khóa DA.pptx (4).png"><br/>
+  <i>An example of app demo for my model's output for Dbpedia dataset.</i>
+</p>
+
+<p align="center">
+  <img src="Demo/Báo cáo cuối khóa DA.pptx (5).png"><br/>
+  <i>An example of app demo for my model's output for Dbpedia dataset.</i>
+</p>
+
+<p align="center">
+  <img src="Demo/Báo cáo cuối khóa DA.pptx (6).png"><br/>
+  <i>An example of app demo for my model's output for Dbpedia dataset.</i>
+</p>
